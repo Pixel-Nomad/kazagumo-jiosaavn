@@ -1,6 +1,6 @@
 {
     "name": "@pixel_nomad/kazagumo-jiosaavn",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A JioSaavn plugin for Kazagumo",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -35,8 +35,8 @@
     "license": "ISC",
     "dependencies": {
         "@hono/node-server": "^1.14.0",
+        "@pixel_nomad/kazagumo": "^3.2.24",
         "hono": "^4.7.5",
-        "kazagumo": "^3.0.0",
         "undici": "^6.19.2"
     },
     "devDependencies": {
