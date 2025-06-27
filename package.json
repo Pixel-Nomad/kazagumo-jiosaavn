@@ -1,6 +1,6 @@
 {
     "name": "@pixel_nomad/kazagumo-jiosaavn",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A JioSaavn plugin for Kazagumo",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",

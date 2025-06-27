@@ -1,6 +1,6 @@
-import { Kazagumo, KazagumoPlugin as Plugin, KazagumoSearchOptions, KazagumoSearchResult, KazagumoTrack, SearchResultTypes } from 'kazagumo';
+import { Kazagumo, KazagumoPlugin as Plugin, KazagumoSearchOptions, KazagumoSearchResult, KazagumoTrack, SearchResultTypes } from '@pixel_nomad/kazagumo';
 import { JioSaavnAPI } from './JioSaavnAPI';
-import { KazagumoError } from 'kazagumo';
+import { KazagumoError } from '@pixel_nomad/kazagumo';
 import { 
     JioSaavnPluginOptions,
     JioSaavnTrack,

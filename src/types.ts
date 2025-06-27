@@ -1,4 +1,4 @@
-import { KazagumoTrack } from 'kazagumo';
+import { KazagumoTrack } from '@pixel_nomad/kazagumo';
 
 export interface JioSaavnPluginOptions {
   /**
